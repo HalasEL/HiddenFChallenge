@@ -1,6 +1,6 @@
 # Front-end Coding Challenge
 
-This is our challenge for the front-end developer position at [Hidden Founders](https://hiddenfounders.com). 
+This is our coding challenge for the front-end developer position at [Hidden Founders](https://hiddenfounders.com). 
 
 ## About the Challenge
 For this challenge, you'll be converting a [mockup design](https://invis.io/T7DBK3YQ6#/251649617_Page_1) to a responsive web page. 
