@@ -9,7 +9,6 @@ For this challenge, you'll be converting a [mockup design](https://invis.io/T7DB
 * The final result should look like [this mockup](https://invis.io/T7DBK3YQ6#/251649617_Page_1).
 * The page must be responsive.
 * The page shouldn't be static. It needs some logic to show data dynamically.
-* If you got some questions, Google them or ask your friends. But do not ask them to solve the challenge for you.
 
 ## How we'll evaluate
 * Your code will be evaluated by: semantics, structure, legibility, size, among other factors.
