@@ -3,7 +3,7 @@
 This is our challenge for the front-end developer position at [Hidden Founders](https://hiddenfounders.com). 
 
 ## About the Challenge
-For this challenge, you'll be converting a PSD/Sketch design to a responsive web page. 
+For this challenge, you'll be converting a [mockup design](https://invis.io/T7DBK3YQ6#/251649617_Page_1) to a responsive web page. 
 
 ## Basic requirements
 * The final result should look like [this mockup](https://invis.io/T7DBK3YQ6#/251649617_Page_1).
