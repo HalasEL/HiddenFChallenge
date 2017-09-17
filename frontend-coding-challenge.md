@@ -19,7 +19,7 @@ For this challenge, you'll be converting a [mockup design](https://invis.io/T7DB
 * Solve this challenge in the best way you can.
 * Send us the URL to your Github repo by email once you're done.
 
-## Few tips
+## Things to keep in mind
 * While there is no limitations with regards to which tools or libraries to use, remember to always choose the right tool for the job.
 * Despite not having a time limit, we recommend that you don't spend more than few days working on this challenge.
 * Do not forget documentation. Or how are we going to evaluate your work if we can't init the project on our machines?
