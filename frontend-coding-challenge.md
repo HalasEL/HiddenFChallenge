@@ -1,4 +1,4 @@
-# Front-end Code Challenge
+# Front-end Coding Challenge
 
 This is our challenge for the front-end developer position at [Hidden Founders](https://hiddenfounders.com). 
 
