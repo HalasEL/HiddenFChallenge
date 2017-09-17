@@ -1,5 +1,7 @@
 # Front-end Code Challenge
 
+This is our challenge for the front-end developer position at [Hidden Founders](https://hiddenfounders.com). 
+
 ## About the Challenge
 For this challenge, you'll be converting a PSD/Sketch design to a responsive web page. 
 
